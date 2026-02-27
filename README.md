@@ -43,3 +43,12 @@ The model successfully learns patterns of normal environmental behavior and flag
 ## How to Run
 
 ### 1. Install dependencies
+### 2. Train model
+### 3. Detect anomalies
+
+## Future Improvements
+
+- Real-time anomaly detection loop
+- Raspberry Pi edge deployment
+- Model comparison (KMeans vs Autoencoder)
+- Live dashboard
