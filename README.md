@@ -1,4 +1,4 @@
-# Sensor Fusion Anomaly Detection (Edge AI)
+# Sensor Fusion Anomaly Detection 
 
 ## Overview
 
